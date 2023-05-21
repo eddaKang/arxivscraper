@@ -121,3 +121,6 @@ Here is a list of all categories and subcategories available on ArXiv
 | | | Methodology | `stat.ME`
 | | | Other Statistics | `stat.OT`
 | | | Statistics Theory | `stat.TH`
+| Computer Science | `cs` |
+| | | AI | `cs.AI`
+
